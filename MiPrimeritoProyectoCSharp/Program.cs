@@ -20,6 +20,8 @@ namespace MiPrimeritoProyectoCSharp
             Console.WriteLine(alumnos.Max(a => a.Nota));
             Console.WriteLine(alumnos.OrderByDescending(a => a.DNI));
 
+            //Sami no te distraigas, me caes bien pero deja el móvil, un saludo.
+
         }
     }
 }
